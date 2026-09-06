@@ -1,1 +1,2 @@
 Hello Git Bash
+This change is made from GitHub
